@@ -1,0 +1,20 @@
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#gol {
+    width: 100%;
+    background-color: black;
+    padding: 10px;
+}
+
+.country {
+    width: 50%;
+    float: left;
+    text-align: center;
+    font-size: xx-large;
+    padding: 10px;
+
+}
